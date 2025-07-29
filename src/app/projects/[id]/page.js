@@ -61,23 +61,18 @@ const projectsData = [
     id: "Smart-Guardian",
     title: "Smart-Guardian (FYP)",
     description:
-      "Smart Guardian is an innovative resource management and security system designed for factories, educational institutions, and healthcare facilities, utilizing geo-fencing, indoor positioning, and computer vision.",
+      "This tool helps you track spending, optimize investments, and plan finances with AI-powered insights. It offers secure budgeting, debt management, and real-time market analysis. Simple, smart, and personalized for better financial control.",
 
     longDescription:
-      "SecuriSense is an innovative security platform integrating geo-fencing, indoor positioning (IPS), and computer vision for automated attendance and access control. Features include multi-factor authentication, real-time alerts, and interactive dashboards. The system combines GPS, Wi-Fi triangulation, BLE, and facial recognition for comprehensive indoor/outdoor tracking. Built with Java Spring Boot, Next.js, and Firebase/PostgreSQL, it provides role-based permissions and real-time monitoring. Successfully addresses security and attendance challenges across factories, schools, and healthcare facilities.",
+      "This smart finance and investment tool makes managing money simple and stress-free. It helps you track all your income and spending in one clear dashboard, so you always know where your money goes. The built-in budget planner automatically categorizes expenses and warns you before you overspend, while smart investment suggestions help grow your savings safely. You'll get personalized debt payoff plans to become debt-free faster, along with timely alerts for bills and financial opportunities. The system even predicts future expenses and savings trends to help you plan ahead. With bank-grade security protecting your data and easy-to-understand financial lessons, this all-in-one tool gives you complete control over your finances. Whether you're saving for a goal, paying off loans, or investing for the future, it provides the guidance and tools you need to make smarter money decisions every day.",
 
     techStack: [
       "Spring Boot",
       "Firebase",
       "Postgresql",
-      "Nextjs",
-      "Android Studio",
+      "React js",
       "Java",
-      "Tracking Technologies",
-      "GPS",
-      "Wi-Fi triangulation",
-      "BLE (Bluetooth Low Energy)",
-      "Gyroscope",
+      "Tailwind CSS",
     ],
     images: [
       "/ProjectImages/fyp1.png",

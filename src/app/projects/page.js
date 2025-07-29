@@ -9,15 +9,15 @@ import Navbar from "../component/Navbar" // Import your Navbar component
 
 // Sample project data - replace with your actual data source
 const projectsData = [
-  {
-    id: "ecommerce-platform",
-    title: "E-Commerce Platform",
-    description: "A full-stack e-commerce solution with payment integration and admin dashboard.",
-    techStack: ["React", "Node.js", "Express", "MongoDB", "Redux", "Stripe API", "Hontinger (VPS Server)"],
-    image: "/ProjectImages/p4-1.png",
-    category: "Web Development",
-    date: "April 2025",
-  },
+  // {
+  //   id: "ecommerce-platform",
+  //   title: "E-Commerce Platform",
+  //   description: "A full-stack e-commerce solution with payment integration and admin dashboard.",
+  //   techStack: ["React", "Node.js", "Express", "MongoDB", "Redux", "Stripe API", "Hontinger (VPS Server)"],
+  //   image: "/ProjectImages/p4-1.png",
+  //   category: "Web Development",
+  //   date: "April 2025",
+  // },
   {
     id: "phonebechpk.com",
     title: "phonebechpk.com",
@@ -30,24 +30,18 @@ const projectsData = [
   },
   {
     id: "Smart-Guardian",
-    title: "Smart-Guardian (FYP)",
+    title: "Smart Solution For Finance And Investment Optimization (FYP)",
     description:
-      "Smart Guardian is an innovative resource management and security system designed for factories, educational institutions, and healthcare facilities, utilizing geo-fencing, indoor positioning, and computer vision",
+    "This tool helps you track spending, optimize investments, and plan finances with AI-powered insights. It offers secure budgeting, debt management, and real-time market analysis. Simple, smart, and personalized for better financial control.",
     techStack: [
       "Spring Boot",
       "Firebase",
       "Postgresql",
-      "Nextjs",
-      "Android Studio",
+      "React Js",
       "Java",
-      "Tracking Technologies",
-      "GPS",
-      "Wi-Fi triangulation",
-      "BLE (Bluetooth Low Energy)",
-      "Gyroscope",
     ],
     image: "/ProjectImages/fyp1.png",
-    category: "Web Developement & Mobile Development",
+    category: "Web Developement ",
     date: "October 2024",
   },
   {

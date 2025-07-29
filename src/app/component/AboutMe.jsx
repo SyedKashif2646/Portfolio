@@ -42,13 +42,13 @@ export default function AboutMe() {
 
   // Experience data
   const experience = [
-    {
-      position: "Team Lead-Full Stack Developer",
-      company: "Boosts Inc.",
-      year: "2024 - Present",
-      description:
-        "Leading the development team, implementing modern web applications using both frontend and backend technologies",
-    },
+    // {
+    //   position: "Team Lead-Full Stack Developer",
+    //   company: "Boosts Inc.",
+    //   year: "2024 - Present",
+    //   description:
+    //     "Leading the development team, implementing modern web applications using both frontend and backend technologies",
+    // },
     {
       position: "Free Lencer Developer",
       company: "Fiver , Upwork",
@@ -70,10 +70,10 @@ export default function AboutMe() {
     const link = document.createElement("a")
 
     // Set the href to the path of your CV file
-    link.href = "/Muhammad_ali_Iqbal_CV.pdf"
+    link.href = "/kashifCV.pdf"
 
     // Set the download attribute with the desired filename
-    link.download = "Muhammad_ali_Iqbal_CV.pdf"
+    link.download = "kashifCV.pdf"
 
     // Append to the document
     document.body.appendChild(link)
@@ -143,7 +143,7 @@ export default function AboutMe() {
                   transition={{ duration: 0.8, delay: 0.7 }}
                 ></motion.div>
                 <div className="relative h-full w-full overflow-hidden rounded-xl">
-                  <Image src="/profile.jpeg" alt="Muhammad Ali" fill className="object-cover" />
+                  <Image src="/kashifProfile.png" alt="Muhammad Ali" fill className="object-cover" />
                 </div>
               </div>
 
