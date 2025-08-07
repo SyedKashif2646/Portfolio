@@ -12,16 +12,16 @@ export default function AboutMe() {
 
   // Skills data
   const skills = [
-    { name: "React", level: 85 },
-    { name: "Next.js", level: 90 },
+    { name: "React", level: 80 },
+    { name: "Next.js", level: 70 },
     { name: "JavaScript", level: 80 },
     { name: "TypeScript", level: 70 },
-    { name: "Node.js", level: 85 },
+    { name: "Node.js", level: 80 },
     { name: "Java", level: 85 },
     { name: "Spring Boot", level: 85 },
     { name: "postgres", level: 80 },
-    { name: "Tailwind CSS", level: 95 },
-    { name: "Supabase", level: 85 },
+    { name: "Tailwind CSS", level: 90 },
+    // { name: "Supabase", level: 85 },
   ]
 
   // Education data

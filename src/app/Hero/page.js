@@ -144,7 +144,7 @@ export default function Hero() {
             },
             {
               icon: <Linkedin className="w-5 h-5" />,
-              href: "https://linkedin.com/in/yourusername",
+              href: "https://www.linkedin.com/in/syed-kashif-289918278/",
               color: "hover:text-blue-400",
             },
             {
@@ -278,7 +278,7 @@ export default function Hero() {
                 },
                 {
                   icon: <Linkedin className="w-5 h-5" />,
-                  href: "https://linkedin.com/in/yourusername",
+                  href: "https://www.linkedin.com/in/syed-kashif-289918278/",
                   color: "hover:text-blue-400",
                 },
                 {
@@ -435,9 +435,9 @@ export default function Hero() {
                         2000,
                         // "UI/UX Designer",
                         // 2000,
-                        "React Specialist",
+                        "React.js",
                         2000,
-                        "Next.js Expert",
+                        "Next.js",
                         2000,
                       ]}
                       wrapper="span"

@@ -59,7 +59,7 @@ const projectsData = [
   },
   {
     id: "Smart-Guardian",
-    title: "Smart-Guardian (FYP)",
+    title: "Smart Solution for Finance and Investment (FYP)",
     description:
       "This tool helps you track spending, optimize investments, and plan finances with AI-powered insights. It offers secure budgeting, debt management, and real-time market analysis. Simple, smart, and personalized for better financial control.",
 
@@ -83,7 +83,7 @@ const projectsData = [
       "/ProjectImages/fyp6.png",
       "/ProjectImages/fyp7.png",
     ],
-    category: "Web Developement & Mobile Development",
+    category: "Web Developement",
     date: "October 2024",
     duration: "5 months",
     client: "University Project",
