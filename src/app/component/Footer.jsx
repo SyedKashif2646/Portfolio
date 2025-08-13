@@ -106,7 +106,7 @@ export default function Footer() {
               className="text-gray-400 hover:text-white transition-colors"
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.95 }}
-            >
+            > 
               <Dribbble className="w-5 h-5" />
               <span className="sr-only">Dribbble</span>
             </motion.a>

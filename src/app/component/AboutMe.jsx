@@ -143,7 +143,7 @@ export default function AboutMe() {
                   transition={{ duration: 0.8, delay: 0.7 }}
                 ></motion.div>
                 <div className="relative h-full w-full overflow-hidden rounded-xl">
-                  <Image src="/kashifProfile.png" alt="Muhammad Ali" fill className="object-cover" />
+                  <Image src="/kashifProfile.png" alt="Kashif Ali" fill className="object-cover" />
                 </div>
               </div>
 

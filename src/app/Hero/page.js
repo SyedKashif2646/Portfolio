@@ -198,7 +198,7 @@ export default function Hero() {
                   />
 
                   {/* Profile image */}
-                  <Image src="/kashifProfile.png" alt="Muhammad Ali" fill className="object-cover" />
+                  <Image src="/kashifProfile.png" alt="Kashif Ali" fill className="object-cover" />
                 </motion.div>
 
                 {/* Animated ring */}
@@ -551,7 +551,7 @@ export default function Hero() {
                   />
 
                   {/* Profile image */}
-                  <Image src="/kashifProfile.png" alt="Muhammad Ali" fill className="object-cover" />
+                  <Image src="/kashifProfile.png" alt="Kashif Ali" fill className="object-cover" />
                 </motion.div>
 
                 {/* Animated rings */}
